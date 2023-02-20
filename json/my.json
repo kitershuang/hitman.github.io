@@ -2,7 +2,7 @@
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"spider": "https://kitershuang.github.io/hitman.github.io/jar/myspider.jar",
 
-    "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL29zcy5odG1sLTUubWUvZG93bi5waHAvYTI2NDI4MDE1OGYxNGY5NTc4NmFhZGZjMDZmZjIzYTcudHh0JnF3ZXIxMjM0="]}]}],
+    "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9raXRlcnNodWFuZy5naXRodWIuaW8vaGl0bWFuLmdpdGh1Yi5pby9saXZlcy9teWxpdmVzLnR4dA=="]}]}],
 
     "rules":[
         {"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},
